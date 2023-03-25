@@ -1,6 +1,5 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
 **VLooong/VLooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![VLooong's GitHub stats](https://github-readme-stats.vercel.app/api?username=VLooong&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VLooong&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
